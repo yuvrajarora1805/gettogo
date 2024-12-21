@@ -40,7 +40,7 @@ A beautiful and interactive todo list application built with React, featuring sm
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/gettogo.git
-cd todo-list
+cd gettogo
 ```
 
 2. Install dependencies:
