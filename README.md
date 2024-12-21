@@ -66,9 +66,9 @@ todo-list/
 │   ├── main.jsx
 │   └── index.css
 ├── screenshots/
-│   ├── main.png
-│   ├── tasks.png
-│   └── completed.png
+│   ├── todo1.png
+│   ├── todo2.png
+│   └── todo3.png
 ├── index.html
 ├── package.json
 └── README.md
