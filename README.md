@@ -5,15 +5,15 @@ A beautiful and interactive todo list application built with React, featuring sm
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](./screenshots/main.png)
+![Main Interface](./screenshot/todo1.png)
 *Beautiful gradient background with clean, modern interface*
 
 ### Adding Tasks
-![Adding Tasks](./screenshots/tasks.png)
+![Adding Tasks](./screenshot/todo2.png)
 *Interactive task input with smooth animations*
 
 ### Completed Tasks View
-![Completed Tasks](./screenshots/completed.png)
+![Completed Tasks](./screenshot/todo3.png)
 *Progress bar and completed tasks with strikethrough effect*
 
 ## 🚀 Features
